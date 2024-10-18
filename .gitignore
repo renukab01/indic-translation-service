@@ -1,3 +1,6 @@
 dist/
 IndicTransTokenizer.egg-info
 IndicTransTokenizer/__pycache__/
+venv
+.env
+IndicTransToolkit.egg-info

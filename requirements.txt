@@ -5,3 +5,10 @@ sentencepiece
 transformers
 sacrebleu
 indic-nlp-library-IT2 @ git+https://github.com/VarunGumma/indic_nlp_library
+
+starlette==0.27.0
+urllib3==1.26.18
+pydantic==1.10.13
+fastapi==0.100.0
+uvicorn[standard]==0.20.0
+psutil
